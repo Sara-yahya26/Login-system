@@ -1,0 +1,44 @@
+body{
+    background-color: #24353f;
+}
+.box{
+    width: 800px;
+    height: 350px;
+    font-family: 
+    "Titillium Web";
+    font-size: 40px;
+    font-weight: 500;
+    box-shadow: -5px 2px 54px -9px rgba(0,0,0,1) !important
+}
+.box p{
+    font-size: 16px;
+}
+h1{
+    color: rgb(23, 162, 184);
+}
+.form-control{
+    width: 90%;
+    background-color: #24353f;
+
+}
+.alert{
+    width: 90%;
+ 
+}
+
+.form-control:focus{
+    background-color: #24353f;
+
+}
+button{
+    width: 90%;
+
+}
+input::placeholder{
+    color: grey !important;
+}
+
+.message{
+    color: red;
+    font-size: 16px;
+}
